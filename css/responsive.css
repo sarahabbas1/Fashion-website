@@ -1,0 +1,90 @@
+@media (max-width: 480px){
+.heading6{
+	margin-top: -10px;
+    font-size: 15px;
+}
+.box {
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px dashed #008080;
+    font-size: 13px;
+	font-weight: 500;
+    color: #333;
+	margin-top: -10px;
+}
+.colen{
+	font-size:15px;
+	font-weight: 800;
+	margin-top: -8px;
+}
+.heading7{
+	font-weight: 400;
+	font-size: 13px;
+}
+
+.form-control{
+    margin-left: -300px;
+    width: 150px;
+}
+.btn2{
+	color: white ;
+	background-color: black;
+	border: 0;
+	width: 100px;
+
+}
+.line {
+	width: 50px; 
+	margin: 10px  10px;
+}
+.follow{
+	margin-left: 0px;
+}
+.scattered-img.img4 {
+	bottom: 280px;
+	left: 10px;
+	width: 50px; 
+}
+.scattered-img.img5{
+	bottom: 0px;
+	left: 40px;
+	width: 60px;
+}
+.scattered-img.img6 {
+	bottom: 200px;
+	right: 50px;
+	width: 60px; 
+}
+.scattered-img.img7{
+	bottom: 10px;
+	right: 10px;
+	width: 50px;
+}
+
+.footer{
+    display: block;
+}
+.ul{
+	margin-left: 0px;
+}
+.icons{
+margin-left: 0px;
+}
+.cards{
+	margin-top: 20px;
+	margin-left: 5px;
+}
+.card1{
+	height: 20px;
+	width: 30px;
+}
+.customline {
+	width: 1000px; 
+}
+.end{
+	margin-left: 0PX;
+}
+}
